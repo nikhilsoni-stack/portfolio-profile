@@ -1,0 +1,106 @@
+{
+	"landing": {
+		"firstName": "Nikhil",
+		"lastName": "Soni",
+		"phoneNumber": "+91-8962407030",
+		"bio": "I have studied c,c++,java,python,image Processing algorithms,graph theory,javascript,typescript,etc... I have a good experience in project making and have been part of several projects. I alse have a good experience in java and framework like spring boot.I had  worked with intellicus team of thinking machines as an intern on iot devices. ",
+    "email": "aanikhilsoni@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikhil-soni-stack/",
+		"github": "https://github.com/nikhilsoni-stack"
+	},
+	"experience": [
+		{
+				"position": "Intern",
+				"organization": "Thiking Machines",
+				"aboutWork": "Responsible for hangling iot device (Home Automation)",
+				"fromDate": "August 2018",
+				"toDate": "February 2019"
+		}
+	],
+	"projects": [
+		
+		{
+				"title": "SOCKET PROGRAMMING FRAMEWORK",
+				"teck":"Technology: java ",
+				"about": "Framework to invoke the server side methods from client side without the need of writing networking code. Methods can be mapped with the help of annotations and called by their mappings from client side",
+				"fromDate": "June 2018",
+				"toDate": "November 2019"
+		},
+		{
+			"title": "SMART HOME SYSTEM",
+			"teck":"Technology: java,mysql,c++,python",
+			"about": "To control all the electronic appliances in a home, I developed this system that allows users to use a simple desktop application for switching on/off the appliances.",
+			"fromDate": "August 2018",
+			"toDate": "February 2019"
+	},
+	{
+		"title": "DATA MODELER",
+		"teck":"Technology: java,java script, springboot,css,html,ajax,mysql",
+		"about": "It is a web based tool that enhances productivity and simplifies data modeling tasks. Users can visually design the schema of the database without worrying about the required SQL. SQL script is generated automatically for the designed database",
+		"fromDate": "April 2019",
+		"toDate": "September 2019"
+},
+{
+	"title": "Path Visualizer",
+	"teck":"Technology: java script,css,html,reactjs",
+	"about": "It is web base applicaton which is use to visualize algorithm amd maze.",
+	"fromDate": "April 2020",
+	"toDate": "May 2020"
+}
+	],
+	
+	"education": [{
+			"university": "Ujjain Engineering College",
+			"degree": "Bachelor of Technology",
+			"gpa": "CGPA:7.29/10",
+			"fromDate": "August 2016",
+			"toDate": "Present"
+		},
+		{
+			"university": "St Paul convent ",
+			"degree": "Higher Secondary",
+			"gpa": "Percentage:85.4%",
+			"fromDate": "2015",
+			"toDate": "2016"
+		}
+	],
+	"skills": [{
+			"name": "Java"
+		},
+		{
+			"name": "C/C++"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Reactjs"
+		},
+		{
+			"name": "SpringBoot"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "HTML"
+		},
+		{
+			"name": "CSS"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors and like to travel new places. Apart from this i like to dance and play musical instruments.",
+		"paragraphTwo": "When forced indoors, i like to see movies and web series and play video games"
+	},
+	"awards": [{
+			"awardDetail": "Golden badge at hacker rank in probleam solving"
+		},
+		{
+			"awardDetail": "Black belt"
+		},
+		{
+			"awardDetail": "Machine learning by coursera"
+		}
+	]
+}
